@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_vnet_tress_dev_westeurope_name": {
+            "value": null
+        },
+        "virtualMachines_vm_tress_dev_db_westeurope_name": {
+            "value": null
+        },
+        "virtualMachines_vm_tress_stage_web_westeurope_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_tress_dev_db_westeurope3_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_tress_dev_db_westeurope_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_trees_dev_db_westeurope_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_tress_stage_web_westeurope179_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_trees_dev_web_westeurope_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_tress_stage_web_westeurope_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_tress_dev_db_westeurope_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_tress_stage_web_westeurope_nsg_name": {
+            "value": null
+        }
+    }
+}
